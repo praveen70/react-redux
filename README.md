@@ -1,6 +1,7 @@
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://redux.js.org/)
+Interested In learning [React](https://reactjs.org/)
 
 ### Getting Started
 
